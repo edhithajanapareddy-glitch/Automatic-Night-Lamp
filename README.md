@@ -21,7 +21,7 @@ simulated on Wokwi Simulator.
 - LED(−) → Arduino GND
 
 ## Wokwi Simulation
-[Click here to view simulation](PASTE YOUR WOKWI LINK HERE)
+https://wokwi.com/projects/464886158861194241
 
 ## Platform
 Wokwi Online Simulator
